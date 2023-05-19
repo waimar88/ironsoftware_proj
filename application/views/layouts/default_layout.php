@@ -125,8 +125,6 @@
 
 	<?php echo $contents;?>	
 
-	<?php echo CI_VERSION;?>
-
 	<footer id="footer">
 	    <div class="footer-newsletter">
 	      <div class="container">
