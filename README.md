@@ -1,4 +1,3 @@
-# ironsoftware_proj
 # codeignitor_layout
 Create Simple codeigniter layout example using Bootstrap theme.
 Codeigniter version - 3.1.3
